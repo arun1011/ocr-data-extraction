@@ -1,0 +1,559 @@
+J.P. Morgan Account Opening Direction Letter JP'MOrgan
+
+client lnforma n
+
+         
+
+Client Contact name’ Vimal Shah Client Contact Telephone: +61235268202
+Client Contact email address: vimal.shah@xyzlimited.com Client Reference VS
+
+We write to formally request you to open the under mentioned custody accourit(s) at your branch at:
+
+JPMorgan Chase Bank, N.A. - Sydney Branch, Level 18, S5 Castlereagh Street, Sydney, Australia
+
+Legal Entity Name (Account Holder);  XYZ Limited
+
+Legal Entity Identi�er (LEI),  XYZLimited
+
+Is this a new Legal Entity relationship with Investor Services? G)/es   No
+
+Registered Address Mailing Address  Same as Registered Address C: New
+
+Address 1:
+
+Address 2: PO Bo x 9, Newcastle West
+
+Address 3:
+City: MELBOURNE State’ VICTORIA
+Country: AUSTRALIA Zip/Postal: 2302
+
+Account Information
+
+Ta x Beneficial Owner Details:
+Bene�cial Owner Name,  XYZ insurance company limited
+Is this a new Bene�cial Owner’? (3j Yes   No Bene�cial Owner Address  Registered  Mailing  NEW
+
+Ta x ID {=i applicable):
+
+ 
+
+Full Ta x Service Required? G  Yes C  No
+
+Account Classi�cation: Corporation
+
+Account Details:
+
+Account opening type Global Markets (GT1) Multiple Accounts
+
+Account Name:  XYZ insurance c0.IId 1
+
+ 
+
+Global Brief Name:  XYCICLTD Pre Allocated GTI:  xyz15
+Pledged Account Collateral Account Control Account
+
+Seed Cﬂpiial (U59). 1 million Base currency: AUD Account funding with: C Cash  Cash I Securities
+Funding Date:  Account Required Date:
+
+V\�Il this account be selling short at any time? F  Yes   No pgease ,e;e,,A9 __i;i,»3i.,u,1s_
+
+Are you appointing an e xternal Investment Manager? (3 ‘(es  Nu
+
+Investment Manager Name: APAC investors co.itd
+
+IM Legal Entity Identi�er (LEI). IM Location APAC IM Contact email: raj.459@apacinvestors.in
+
+ 
+
+ 
+
+Page 1 of 8 AODL3.5
+J.P. Morgan Account Opening Direction Letter
+
+ 
+ 
+  
+
+(:,Nc
+Gun
+
+is this fund/account(s) subject to ERISA regulations?   Yes
+
+Is this fund/account(s) subject to 19405 Act regulations (US DDVTIeSIlC)7   Yes
+
+Client Money regulations - Segregation of cash and securities,
+1, Will this account he used for deposits of cash that belong solely to you’? (If  No please answer question 2, itY please ignore question 2)
+  Yes   No
+
+2. Vt�ll this account he used for deposits of cash that belong to your customers and that must be held separate and away from your own cash i.e. designated
+client money?
+
+C;  Yes (nji xio
+
+3. Vl�ll this account he used to hold securities that belong solely to you’? Y/N (If  No please answer question 4, if Yes please ignore question 4)
+
+Q‘:  Yes (jun
+
+4. Vt�ll this account be used to hold securities that belong to your customers and that must be held separate and away from your own securities l.e.
+segregated securities?
+
+C‘/es (sf, Nu
+
+Alternative Investment Funds (AIF) and Undertakings for the Collective lnvestrnent in Transferable Securities (UCITS) Regulations
+
+at sc: up Sefyleljzilllm
+
+ 
+
+Is the account being requested compliant under the Alternative investment Fund Manager Directive (AlFMD)7
+
+C.»  Yes (_-‘, No
+
+Is the Account being requested compliant under the Undertakings for the Collective Investment in Transferable Securities (UCITS) regulations?
+
+(“  Yes (o‘,Nu
+
+D. Fee Bi ing
+
+ 
+
+(‘-  Yes 6‘  No E xisting Accouritnumber.  XYZWZ
+
+Do you require a new invoice?
+
+E xisting Invoice group(s). 12354
+
+ 
+
+Page 2 of8 AODL3.5
+J.P. Morgan Account Opening Direction Letter J'P'MO‘rga'n
+
+Market and Currencies Requirements
+
+Account Name;  XYZ insurance co,itd 1
+
+Security Type(s): Equities Fi xed Income
+
+Cash Details: Enable Crosscurrency payments un cash accounts shared Cash
+
+By selecting the market, the cu nay & cash account defaull to market stancia/0’, lrowel/er ins defallfi can be ahcvred
+
+ 
+
+ 
+
+Market V Currency Cash Acct Market Currency Cash Acct
+Argentina“ ARS Finland EUR
+ X Australia AUD Gen France EUR
+Austria EUR Germany EUR
+Bahrain� BHD Ghana‘ GHS
+Bangladesh5 307 Greece‘ EUR
+Belgium EUR Hung Kung (CHINA coNNEcT)5 CNY
+Bermuda BMD
+Bmswana‘ BWP Hong Kong (CNY dennminaled Bands) CNY
+arazi� BRL Gen _>g Hung Kong >( HKD Gen
+Brazil Law 12.4315 BRL Hungary HUF Ge"
+Bulgaria?’ I BGN lcelana3  ISK
+Canada CAD lndiaé [: INR
+Chit ‘ CLP Indurlesias "JR
+China A_sllangnal5 CNY Ireland EUR
+China Aashenzhenf’ CNY lsrael" ILS
+__ Chlna asnangnai‘ :] USD Italy EUR
+china g,3he,m.e.,‘ "’] HKD Japan Equities JPY
+China Interbank aonrls5 CNY Japan J-EIEMS JPV
+Columbia‘ COP Jordan? JOD
+CRC Kazakhstan KZT
+HRK Kenya" KES
+_ Cyprus‘? EUR
+[3 CZK Kuwaiti’; KWD
+x Dl<l< Gen Lalvla EUR
+ESP __ Lithuania EUR
+EUR Gen
+
+ 
+
+;)
+
+.verga.r re,»
+
+ 
+
+ 
+
+Page 3 of 8 AODL3.5
+J.P. Morgan Account Opening Direction Letter
+
+J.P.Iv{organ
+
+Market and Currencies Requirements
+
+Market
+
+Lu xembourg
+
+ 
+
+Malawi
+Malaysia
+Maun'uus"
+Me xico
+Morocco‘
+Namibia
+Netherlands
+
+New Zealand
+
+N:gena5
+
+ Nonnray
+Omanl‘
+Pakislans
+
+Peru�
+
+Phlhppmes
+Polanf
+Ponugal
+Qatar�
+Romania;
+Russia5
+Saudi Arabia"
+semia�
+
+Singapore
+Slovak Repumuc"
+
+Slovenia“
+South Alrica
+
+soum Korea5
+
+Spam
+
+B International secunnes Market » please select clearing agent 5‘
+
+ 
+
+Currency Cash Acct Market
+EUR Sri Lanka"
+MWK
+MYR Gen Sweden
+MUR Swiizedand
+M XN Taiwan5
+MAD Tanzania
+NAD Thailand
+EUR
+NZD Trinidad and Tobago
+NGN Tunis1a5
+Turkey‘:
+" NOK G5,, UAE-AD X�
+5
+DMR UAE-DFM
+PKR UAENASDAQ Dubais
+"' PEN Uganda“
+" PHP Ukraine“
+PLN United Kingdom
+EUR
+/ QAR United Kingdom Money Markets
+' RON
+._ USU Unlled Kmgdum Unit Trusls
+-— SAR United States
+—— RS0  X Equities/Corpnraie Debt
+Uruguay‘
+"' SGD venezue1a5
+"' EUR viennam‘—'
+: EUR WAEMU (Benin, Burkma Fasn, wary Cuast,
+— ZAR Guinea-Bissau, Mali, Niger. Senegal‘ Togo)? 5
+KRW zarnma‘
+EUR Zimbabwe�
+
+Currency Cash Acct
+
+LKR
+
+SEK Gen
+
+CHF Gen
+
+TWD
+
+TZS
+
+THB
+
+TTD
+
+TND
+
+TRY
+
+AED
+
+AED
+
+AED
+
+UG X
+
+x
+
+UAH
+GBP
+
+GBP
+
+GBP
+USD Gen
+
+Government Debi
+
+UYU
+VEF
+VND
+
+ XOF
+
+ZMW
+USD
+
+ 
+
+ 
+
+Page 4 of 8
+
+AODL3.5
+.I.13livlorgan
+
+ 
+  
+
+a note  xii-at ms: ail pzaduc are offered bye»/sry J P.Mmygm ieguv mi:/ry
+
+ 
+
+ 
+
+Compliance Reporting Continuous Link Settlement (CLS) W CTS Mullibank (MT1D1) FORSS/Fund of Funds  X Futures and Options
+
+Flmd ACC0Ul'liil1Q  am 8/ T\“)"�" Z9f’v‘�"" Unit Pricing ' Investment Analytics  X Transfer A9enc‘/ (TA)
+ X Securities Lending Optloné Trustee/Depositaw PEFS
+x JP Morgan: F X  [3 Direct Dealing am Party Trading is Aulo F X
+
+ 
+
+Fund accounling composite number (us Only)
+
+Perfoimance ccmpusiie ID (us Only)
+
+Other:
+
+F Corporate Governance
+
+Class actions �ling required? @~ Yes  No
+Please confirm the level of signed Class Actions agreement that you have with JP. Morgan? Settled class actions
+
+Us disclosure for Us Assets Only: C.ObjecIing Beneficial Ownership (oeo) (oj- Non Obiecling Beneficial Ownership (NOBO)
+
+Pro xy voting required?   Yes C‘; No is CC voting required? (�ves  Nci
+
+New prime voting ProxyEdge ID required?   Yes  No _Pro xyEdge lD/Mirror Acct:  XY2
+New CC voting ProxyEdge ID required? F  Yes   No ProxyEdge ID/Mirror Acct‘ RF3
+
+Sen/ices required for? (3 Ali markets C US/Canadian only
+
+ 
+
+Page 5 of 8 AODL3.5
+J.P. _l\ﬂ_c3i'gan_Acc9unt Opening Direction Letter J'EM0rgan
+
+ 
+
+J P. Morgan Markets E xisting customer ID/New Set up ref:  XYZCOLTD _j
+
+Instruction Method: PAYMENTS (FTI)  X corporate Action instructions (CAI) )< Transaction Initiation (TI)
+
+Do you intend to instruct via SWIFT’? G‘,- Yes C;  No i‘r'yt*,§, please itsrnwere the 5-V./i',»=T types b-2r'ci'vV Mirror Account (SWIFT Only).
+
+Piease check bo x if you intend to use a messaging provider e.g. OMGEO
+
+Trade iristiuction Trade instruction Third party F X
+Asset Cash Free format (Payment Trade) (Free Trade) settiement
+SENDER BIC Branch Servicing Instruction (Client instruction) MT 541, MT 543 MT 540, MT 542 MT304
+ XYZCMLTD  x x x  X
+
+ x x x "" 3
+
+ x x x
+
+ x x x C
+
+ x x x
+
+ x x x
+
+Vi
+
+ x x x
+
+ x x x
+
+Reporting: Eserve D ESU statements E Market Intelligence
+views Pontoiio Reporting (VPR) F‘ VPR Institutional Accvunlirtg cash Baiaiices & Reporting Document E xchange (DD X)
+Other‘
+ X SWIFT Recipient BIC Address(5s).  XYZCMLTD ASSET in; giant copy message [1
+
+Mirror Accuunl (SWIFT Only)’  XYZ12
+
+MT54D MT541  X MT542 MT543 MT544 MT545 MT548 i_ MT547 MT567 ['1 MTSSS
+
+MTSOD
+
+)< MT535 otneroptions Traded-Valued Frequency. Daily
+
+MT536
+
+MT537
+
+MT54Ei
+
+MT564
+
+MT566
+
+MT94ﬂ
+
+MT950
+
+Oiheri
+
+casn Nt:tti—Receipi Repuriirtg iror noti�cation of outstanding Auuices.to—r2eceive) .
+
+Is this based on an e xisting set up or new set up’? (2 E xisting (‘ New E xisting ATR ID  xvztzss
+
+Page 5 of 5 AODL36
+J.P. Morgan Account Opening Direction Letter ‘I‘PM0rgan
+
+H. Income Instructions’
+
+ 
+
+income Disposal instructions G Credit Local Currency
+
+ 
+     
+
+    
+
+  
+
+if you need mere space§ :
+
+ 
+
+use to acid fa: ‘ er details « giease ezheciri
+
+     
+
+I. Additional Comments (:5
+
+C nts nature
+
+Please ensure that you read the instructions that appear when hovering over the fields in each section of this Account Opening Form. The instructions are
+for guidance purposes only, please speak to a ./PM representative if you have any questions in relation to completing this form. By signing this form. you
+confirm that you have fully understood the instructions and you agree that ./PA/lorgan may process your account opening request based on your responses
+in each section of this Account Opening Form,
+
+Authorized signers are requmeo’ to sign beicw.
+
+Signature: Date: 08-May-2017
+: Name: Corporate Tltle:Managing Director
+_,, Signature. Date:
+Name: Corporate Title:
+
+ 
+
+Page 7 of 8 AODL3.5
+Appendi x A - Additional Address Requirements
+
+J.P.M0rgan
+
+Additional Addresses
+
+lnstructions: Complete for additional addresses, also stating why required
+
+interested Third Party Name. APAC investors co.itd
+
+Address
+
+Address 1: 85 Castlereagh Street Phone:
+
+Address 2 Fa x:
+
+Address 3: Email:
+
+City: Sydney State NSW Email:
+
+Country: U.K. ZipIPostal: 2000
+
+lnterested Third Party Name: why add.-555 gs neededjz;
+Address
+
+Address 1: Phone:
+
+Address 2: Fa x:
+
+Address 3: Email:
+
+City: State: Email:
+
+Counny: Zip/Postal
+
+lnterested Third Party Name: Why address is neededja;
+Address
+
+Address 1: Phone:
+
+Address 2: Fa x:
+
+Address 3: Email‘
+
+City‘ State Email."
+
+Country. Zip/Postal
+
+Interested Third Party Name: why address is neededfr;
+Address
+
+Address 1: Phone:
+
+Address 2. Fa x:
+
+Address 3: Email:
+
+City: State’ Email‘
+
+Country Zip/Postal
+
+Interested Third Party Name: vvhy add.-955 ,5 needed’);
+Address
+
+Address 1: Phone’
+
+Address 2, Fa x:
+
+Address 3: Email:
+
+City’ State. Email:
+
+Country Zip/Postal
+
+ 
+
+Page 8 of8
+
+ 
+
+Why address is needed’.7:
+
+AODL3.5

@@ -1,0 +1,11 @@
+\/:v
+><:x
+|:l
+Yes: Yes 
+No: No 
+!:l
+U50:USD
+USO:USD
+x: x 
+X: X
+ND:No 
